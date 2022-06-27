@@ -1,5 +1,8 @@
 """
 Performs linear regression using native python code.
+
+To run the program with chirps.txt enter command:
+python native_regression.py ./chirps.txt
 @Module: native_regression.py
 @Author: Anna Malmgren
 """
